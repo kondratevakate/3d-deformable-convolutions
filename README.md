@@ -5,4 +5,7 @@ Architectures are here as well
 
 The sourse paper: https://arxiv.org/pdf/1911.01898.pdf
 
+Authors: Marina Pominova @PominovaMS, Ekaterina Kondrateva @kondratevakate
+
+
 Our lab cite, please refer: http://adase.group/neuro/
