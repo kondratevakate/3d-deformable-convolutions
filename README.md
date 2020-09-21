@@ -1,4 +1,8 @@
 # 3DDeformableConvolutions
-A repository with basic layer of 3D deformable receptive fiesld for 3D VoxCNN and 3D VoxResNet.
+A repository with basic layers and blocs of 3D deformable receptive field for `3DVoxCNN` and `3DVoxResNet`.
+
+Architectures are here as well
 
 The sourse paper: https://arxiv.org/pdf/1911.01898.pdf
+
+Our lab cite, please refer: http://adase.group/neuro/
