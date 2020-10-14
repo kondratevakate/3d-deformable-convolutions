@@ -6,7 +6,8 @@ Architectures are here as well
 
 The source paper: https://arxiv.org/pdf/1911.01898.pdf
 
-Authors: Marina Pominova `@PominovaMS`, Ekaterina Kondrateva `@kondratevakate`
+Author: Marina Pominova `@PominovaMS`
+Review: Ekaterina Kondrateva `@kondratevakate`
 
 
 Our lab cite, please refer: http://adase.group/neuro/
